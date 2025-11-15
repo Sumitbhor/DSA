@@ -1,7 +1,7 @@
 #include"farm.cpp"
 int main(){
-   farm farm1 ;
-   farm1.assignplot();
-   farm1.display();
+   farm farm ;
+   farm.assignplot();
+   farm.display();
     return 0; 
 }

@@ -1,5 +1,4 @@
 // LIFO: Last in First out----memory-----stack
-
 // FIFO: First in First out-----scheduling exectuion---queue
 
 # include <iostream>
