@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\git hub\Python\DSA\Tap\CS\BankingLoanApp\bin\Debug\net9.0\BankingLoanApp.exe
+C:\Users\hp\Desktop\git hub\Python\DSA\Tap\CS\BankingLoanApp\bin\Debug\net9.0\BankingLoanApp.deps.json
+C:\Users\hp\Desktop\git hub\Python\DSA\Tap\CS\BankingLoanApp\bin\Debug\net9.0\BankingLoanApp.runtimeconfig.json
+C:\Users\hp\Desktop\git hub\Python\DSA\Tap\CS\BankingLoanApp\bin\Debug\net9.0\BankingLoanApp.dll
+C:\Users\hp\Desktop\git hub\Python\DSA\Tap\CS\BankingLoanApp\bin\Debug\net9.0\BankingLoanApp.pdb
+C:\Users\hp\Desktop\git hub\Python\DSA\Tap\CS\BankingLoanApp\obj\Debug\net9.0\BankingLoanApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\git hub\Python\DSA\Tap\CS\BankingLoanApp\obj\Debug\net9.0\BankingLoanApp.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\git hub\Python\DSA\Tap\CS\BankingLoanApp\obj\Debug\net9.0\BankingLoanApp.AssemblyInfo.cs
+C:\Users\hp\Desktop\git hub\Python\DSA\Tap\CS\BankingLoanApp\obj\Debug\net9.0\BankingLoanApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\git hub\Python\DSA\Tap\CS\BankingLoanApp\obj\Debug\net9.0\BankingLoanApp.sourcelink.json
+C:\Users\hp\Desktop\git hub\Python\DSA\Tap\CS\BankingLoanApp\obj\Debug\net9.0\BankingLoanApp.dll
+C:\Users\hp\Desktop\git hub\Python\DSA\Tap\CS\BankingLoanApp\obj\Debug\net9.0\refint\BankingLoanApp.dll
+C:\Users\hp\Desktop\git hub\Python\DSA\Tap\CS\BankingLoanApp\obj\Debug\net9.0\BankingLoanApp.pdb
+C:\Users\hp\Desktop\git hub\Python\DSA\Tap\CS\BankingLoanApp\obj\Debug\net9.0\BankingLoanApp.genruntimeconfig.cache
+C:\Users\hp\Desktop\git hub\Python\DSA\Tap\CS\BankingLoanApp\obj\Debug\net9.0\ref\BankingLoanApp.dll
