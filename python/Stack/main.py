@@ -1,34 +1,27 @@
-from stack import Book ,Shelf, Filemanager 
+from stack import Book ,Shelf, Filemanager , Uimanager
 
 def main():
     theshelf= Shelf()
     mgr = Filemanager()
+    uimgr= Uimanager()
     theshelf= mgr.deserialize()
+    
     while True:
-        print("***** Menu *****")
-        print("1.add book to shelf")
-        print("2.remove book from shelf ")
-        print("3.display books ")
-        print("4. save data to file ")
-        print("5.Exit")
-
-        choice= int(input("enter your choice :  "))
-
-        if choice == 1 :
-            title = input("enter title of the book ")
-            author= input("enter author of the book ")
-            book= Book(title, author)
-            theshelf.push(book)
-
-        elif choice== 2:
-            theshelf.pop()
-        elif choice==3 : 
+        uimgr .menu()
+        choice= uimgr.getchoice()
+        if choice == 1:
+            theshelf = uimgr.addbook(theshelf)
+        elif choice == 2:
+            theshelf = uimgr.removebook(theshelf)
+        elif choice == 3:
             theshelf.display()
-        elif choice == 4 :
-            mgr.serialize(theshelf)
-        elif choice == 5 :
-            exit()
-        else : 
+        elif choice == 4:
+            uimgr.savedata(mgr, theshelf)
+        elif choice == 5:
+            uimgr.exit()
+        else:
             print("invalid choice ")
+          
+
 
 main()
