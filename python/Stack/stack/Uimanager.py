@@ -14,22 +14,7 @@ class Uimanager:
     def getchoice(self):
         choice= int(input("enter your choice :  "))
         return choice 
-    def addbook(self,theshelf):
-        title = input("enter title of the book ")
-        author= input("enter author of the book ")
-        book= Book(title, author)
-        theshelf.push(book)
-        return theshelf
-    
-    def removebook(self, theshelf):
-        theshelf.pop()
-        return theshelf
-
-    def savedata(self, mgr, theshelf ):
-        mgr.serialize(theshelf)
-    
-    def exit():
-        exit()
+   
 
 
     
