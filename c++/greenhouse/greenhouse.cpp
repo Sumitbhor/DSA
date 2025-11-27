@@ -1,5 +1,5 @@
 #include"climate.cpp"
-class plot
+class Greenhouse    
 {
     public:
         climate climate ;

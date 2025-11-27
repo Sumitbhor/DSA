@@ -1,10 +1,10 @@
-#include"plot.cpp"
+#include"greenhouse.cpp"
 class farm
 {
    public:
-        static const int length=2 ;
-        static const int width= 5;
-        plot greenhouse[length][width];
+        static const int row=2 ;
+        static const int column= 5;
+        Greenhouse greenhouse[row][column];
         void assignplot(){
             greenhouse[0][0].greenhouse_id = 1;
             greenhouse[0][0].name="tomato";
@@ -27,9 +27,9 @@ class farm
             greenhouse[1][4].greenhouse_id = 10;
             greenhouse[1][4].name="pepper";
             
-            for (int i = 0; i < length; i++)
+            for (int i = 0; i < row; i++)
             {
-                for (int j = 0; j < width; j++){
+                for (int j = 0; j < column; j++){
                     
                     greenhouse[i][j].climate.temperature=rand()%45;
                     greenhouse[i][j].climate.humidity=rand()%101;
@@ -41,9 +41,9 @@ class farm
         }
         
         void display(){
-            for (int i = 0; i < length; i++)
+            for (int i = 0; i < row; i++)
             {
-                for (int j = 0; j < width; j++)
+                for (int j = 0; j < column; j++)
                 { 
                     greenhouse[i][j].display();
                 }

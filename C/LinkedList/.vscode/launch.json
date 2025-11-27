@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/hp/Desktop/git hub/DSA/C/LinkedList",
-      "program": "c:/Users/hp/Desktop/git hub/DSA/C/LinkedList/build/Debug/outDebug",
+      "cwd": "c:/Users/hp/Desktop/git hub/DSA/C/LinkedList/src",
+      "program": "c:/Users/hp/Desktop/git hub/DSA/C/LinkedList/src/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

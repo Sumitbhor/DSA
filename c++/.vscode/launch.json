@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/hp/Desktop/git hub/Python/DSA/Tap/c++",
-      "program": "c:/Users/hp/Desktop/git hub/Python/DSA/Tap/c++/build/Debug/outDebug",
+      "cwd": "c:/Users/hp/Desktop/git hub/DSA/c++/stack",
+      "program": "c:/Users/hp/Desktop/git hub/DSA/c++/stack/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

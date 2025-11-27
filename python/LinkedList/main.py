@@ -1,25 +1,47 @@
-from LinkedList import LinkedList, uiManager
-
+from collection import LinkedList, UIManager, FileManager
+# Main function to run the LinkedList UI
 def main():
-    list = LinkedList()
-    ui_manager = uiManager()
     
-    while True:
-        ui_manager.menu()
-        choice = ui_manager.getchoice()
-        
-        if choice == 1:
-           list = ui_manager.insert(list)
-        elif choice == 2 :
-            ui_manager.search(list)
-        elif choice == 3:
-            list = ui_manager.delete(list)
-        elif choice == 4:
-            ui_manager.display(list)
-        elif choice == 5:
-            print("Exiting...")
-            break
-        else:
-            print("Invalid choice. Please try again.")
+    mgr = FileManager()
+    ui_manager = UIManager()
 
+    list = LinkedList()
+
+    # Attempt to deserialize existing list from file
+    list = mgr.deserialize("data/list.txt")
+
+
+    while True:
+
+        ui_manager.showMenu()
+        choice = ui_manager.acceptChoice()
+        
+        match choice:
+                case 1:
+                    item = input("Enter item to insert: ")
+                    list.insert(item)
+
+                case 2:
+                    item = input("Enter item to search: ")
+                    found = list.search(item)
+                    if found:
+                        print(f"{item} found in the list.")
+                    else:
+                        print(f"{item} not found in the list.")
+
+                case 3:
+                    item = input("Enter item to delete: ")
+                    list.delete(item)
+                    print(f"{item} deleted if it was present.")
+
+                case 4:
+                    list.display()
+
+                case 5:
+                    mgr = FileManager()
+                    mgr.serialize("datalist.txt",list)
+                    exit(0)
+                case _:
+                    print("Invalid choice. Please try again.")
+# Run the main function
 main()
