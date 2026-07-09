@@ -1,0 +1,15 @@
+D:\git hub\DSA\dotnet\Array\obj\Debug\net9.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\git hub\DSA\dotnet\Array\obj\Debug\net9.0\Array.AssemblyInfoInputs.cache
+D:\git hub\DSA\dotnet\Array\obj\Debug\net9.0\Array.AssemblyInfo.cs
+D:\git hub\DSA\dotnet\Array\obj\Debug\net9.0\Array.csproj.CoreCompileInputs.cache
+D:\git hub\DSA\dotnet\Array\obj\Debug\net9.0\Array.sourcelink.json
+D:\git hub\DSA\dotnet\Array\bin\Debug\net9.0\Array.exe
+D:\git hub\DSA\dotnet\Array\bin\Debug\net9.0\Array.deps.json
+D:\git hub\DSA\dotnet\Array\bin\Debug\net9.0\Array.runtimeconfig.json
+D:\git hub\DSA\dotnet\Array\bin\Debug\net9.0\Array.dll
+D:\git hub\DSA\dotnet\Array\bin\Debug\net9.0\Array.pdb
+D:\git hub\DSA\dotnet\Array\obj\Debug\net9.0\Array.dll
+D:\git hub\DSA\dotnet\Array\obj\Debug\net9.0\refint\Array.dll
+D:\git hub\DSA\dotnet\Array\obj\Debug\net9.0\Array.pdb
+D:\git hub\DSA\dotnet\Array\obj\Debug\net9.0\Array.genruntimeconfig.cache
+D:\git hub\DSA\dotnet\Array\obj\Debug\net9.0\ref\Array.dll
