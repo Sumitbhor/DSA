@@ -1,0 +1,15 @@
+D:\git hub\DSA\dotnet\LinkedList\bin\Debug\net9.0\LinkedList.exe
+D:\git hub\DSA\dotnet\LinkedList\bin\Debug\net9.0\LinkedList.deps.json
+D:\git hub\DSA\dotnet\LinkedList\bin\Debug\net9.0\LinkedList.runtimeconfig.json
+D:\git hub\DSA\dotnet\LinkedList\bin\Debug\net9.0\LinkedList.dll
+D:\git hub\DSA\dotnet\LinkedList\bin\Debug\net9.0\LinkedList.pdb
+D:\git hub\DSA\dotnet\LinkedList\obj\Debug\net9.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\git hub\DSA\dotnet\LinkedList\obj\Debug\net9.0\LinkedList.AssemblyInfoInputs.cache
+D:\git hub\DSA\dotnet\LinkedList\obj\Debug\net9.0\LinkedList.AssemblyInfo.cs
+D:\git hub\DSA\dotnet\LinkedList\obj\Debug\net9.0\LinkedList.csproj.CoreCompileInputs.cache
+D:\git hub\DSA\dotnet\LinkedList\obj\Debug\net9.0\LinkedList.sourcelink.json
+D:\git hub\DSA\dotnet\LinkedList\obj\Debug\net9.0\LinkedList.dll
+D:\git hub\DSA\dotnet\LinkedList\obj\Debug\net9.0\refint\LinkedList.dll
+D:\git hub\DSA\dotnet\LinkedList\obj\Debug\net9.0\LinkedList.pdb
+D:\git hub\DSA\dotnet\LinkedList\obj\Debug\net9.0\LinkedList.genruntimeconfig.cache
+D:\git hub\DSA\dotnet\LinkedList\obj\Debug\net9.0\ref\LinkedList.dll
