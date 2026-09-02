@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\git hub\\Python\\DSA\\Tap\\CS\\BankingLoanApp\\BankingLoanApp.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\git hub\\DSA\\CS\\BankingLoanApp\\BankingLoanApp.csproj",
       "projectName": "BankingLoanApp",
-      "projectPath": "C:\\Users\\hp\\Desktop\\git hub\\Python\\DSA\\Tap\\CS\\BankingLoanApp\\BankingLoanApp.csproj",
+      "projectPath": "C:\\Users\\hp\\Desktop\\git hub\\DSA\\CS\\BankingLoanApp\\BankingLoanApp.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\git hub\\Python\\DSA\\Tap\\CS\\BankingLoanApp\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\git hub\\DSA\\CS\\BankingLoanApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -8,7 +8,7 @@ class LinkedList:
 
     # CRUD Operations
 
-    def insert(self, item):
+    def insert(self, item): 
         new_node = Node(item)  
 
         if self.head is None:

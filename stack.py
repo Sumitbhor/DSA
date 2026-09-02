@@ -11,3 +11,9 @@ class stack :
             print ("Stack Overflow")
             
     def pop(self ):
+        if self.Top >=0 :
+            item = self.items[self.Top]
+            self.Top -= 1
+            return item 
+        else :
+            print ("Stack Underflow")
